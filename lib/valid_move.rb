@@ -10,7 +10,7 @@ def valid_move?(board, index)
   else
     true
   end
-  
+
 end
 
 
